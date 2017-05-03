@@ -1,0 +1,12 @@
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/chromko/ubuntu
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/chromko/ruby
+[submodule "blog_backend"]
+	path = blog_backend
+	url = https://github.com/chromko/blog_backend
+[submodule "blog_ui"]
+	path = blog_ui
+	url = https://github.com/chromko/blog_ui
