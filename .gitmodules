@@ -10,3 +10,6 @@
 [submodule "golang"]
 	path = golang
 	url = https://github.com/chromko/golang
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/chromko/ruby
