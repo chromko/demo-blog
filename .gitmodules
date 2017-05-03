@@ -14,5 +14,5 @@
 	path = ruby
 	url = https://github.com/chromko/ruby
 [submodule "ubuntu"]
-	path = ruby
+	path = ubuntu
 	url = https://github.com/chromko/ubuntu
