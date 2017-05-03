@@ -1,0 +1,12 @@
+[submodule "blog_backend"]
+	path = blog_backend
+	url = https://github.com/chromko/blog_backend
+[submodule "blog_ui"]
+	path = blog_ui
+	url = https://github.com/chromko/blog_ui
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/chromko/mongodb
+[submodule "golang"]
+	path = golang
+	url = https://github.com/chromko/golang
