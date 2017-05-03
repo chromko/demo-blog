@@ -13,6 +13,3 @@
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/chromko/ruby
-[submodule "ubuntu"]
-	path = ubuntu
-	url = https://github.com/chromko/ubuntu
